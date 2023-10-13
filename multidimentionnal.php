@@ -2,6 +2,8 @@
 
 $multidim = [
   [
+    "r'luh",
+    "orr'eoth",
     [
       [
         'ee',
@@ -20,7 +22,10 @@ $multidim = [
         '\'bthnk',
       ],
     ],
+    "R'lyeh",
     [
+      "mglw'nafh",
+      "Cthulhu",
       [
         'mg',
         'hlirgh',
@@ -30,6 +35,9 @@ $multidim = [
         'throdagl',
         'y-Cthulhu',
         'wgah\'nagl',
+        [
+            "k'yarnak"
+        ]
       ],
     ],
     [
@@ -40,15 +48,23 @@ $multidim = [
       [
         'h\'n\'ghft',
       ],
+      "grah'n",
       [
         'Li\'hee',
         'mnahn\'',
+        [
+            "r'luh",
+            "ph'sll'ha",
+        ]
         'Ph\'nglui',
         'Ch\'',
       ],
     ],
+    "hlirgh"
   ],
+  "cgof'nn",
   [
+    "Nyarlathotep",
     [
       [
         'ngah',
